@@ -33,4 +33,4 @@ print('OS CWD:', os.getcwd())
 
 # Print out your machine's login name
 # YOUR CODE HERE
-print('OS Login name:', os.getlogin())
+print('OS Login Name:', os.getlogin())
